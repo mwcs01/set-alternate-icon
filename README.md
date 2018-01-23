@@ -1,4 +1,4 @@
-This shows how to setup the AlternateIcon for iOS 10.3 using Swift 3.0.
+This shows how to setup the AlternateIcon for iOS 10.3 using Swift 4.0.
 
 The key thing that you need make it happen is the changes info.plist. 
 
